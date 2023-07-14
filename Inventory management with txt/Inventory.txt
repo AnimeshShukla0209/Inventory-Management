@@ -1,0 +1,7 @@
+1,Chocolate,2,500
+2,Biscuit,70,481
+3,Ice-Cream,30,60
+4,Bread,20,30
+5,Muesli,100,50
+6,Maggi,22,51
+7,Paneer,200,10
